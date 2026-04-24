@@ -2,33 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: PhD Student. <a href='#'>Your University</a>. Your research area in one short phrase.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>Your Office, Building Name</p>
+  #   <p>Your University</p>
+  #   <p>City, Country</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+miscellaneous: true # renders _includes/miscellaneous.liquid below selected publications
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Florence, a second-year PhD student at Northwestern University, advised by [Prof. Naichen Shi](https://naichenshi.github.io/). I received my M.Eng. in Computer Science and Engineering from Harvard University, where I was fortunate to be advised by [Prof. Flavio du Pin Calmon](https://people.seas.harvard.edu/~flavio/). Prior to that, I obtained my B.S. in Mathematics and Data Science from University of Michigan.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I work at the interface of statistical learning theory, multimodal learning, and high dimensional inference, building methods with rigorous guarantees for problems that arise in modern learning. My analyses rely on optimal transport, random matrix theory, and high dimensional statistics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p class="text-muted">yixuanwu [at] u [dot] northwestern [dot] edu</p>
+

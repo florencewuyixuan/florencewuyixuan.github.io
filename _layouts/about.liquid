@@ -64,6 +64,12 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Miscellaneous -->
+    {% if page.miscellaneous %}
+      <h2>miscellaneous</h2>
+      {% include miscellaneous.liquid %}
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
