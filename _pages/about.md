@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi:) I'm Florence, a third-year PhD candidate at Northwestern University, advised by [Prof. Naichen Shi](https://naichenshi.github.io/). I received my M.Eng. in Computer Science and Engineering from Harvard University, where I was fortunate to be advised by [Prof. Flavio du Pin Calmon](https://people.seas.harvard.edu/~flavio/). Prior to that, I obtained my B.S. in Mathematics and Data Science from University of Michigan.
+Hi:) I'm Florence, a third-year PhD candidate at Northwestern University, advised by [Prof. Naichen Shi](https://naichenshi.github.io/). I received my M.Eng. in Computational Sciences and Engineering from Harvard University, where I was fortunate to be advised by [Prof. Flavio du Pin Calmon](https://people.seas.harvard.edu/~flavio/). Prior to that, I obtained my B.S. in Mathematics and Data Science from University of Michigan.
 
 I work at the interface of statistical learning theory, multimodal learning, and high dimensional inference, building methods with rigorous guarantees for problems that arise in modern learning. My analyses rely on optimal transport, random matrix theory, and high dimensional statistics.
 
