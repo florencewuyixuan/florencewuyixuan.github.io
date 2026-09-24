@@ -32,5 +32,5 @@ Hi:) I'm Florence, a third-year PhD candidate at Northwestern University, advise
 
 I work at the interface of statistical learning theory, multimodal learning, and high dimensional inference, building methods with rigorous guarantees for problems that arise in modern learning. My analyses rely on optimal transport, random matrix theory, and high dimensional statistics.
 
-<p class="text-muted">yixuanwu [at] u [dot] northwestern [dot] edu</p>
+<p class="text-muted">yixuanwu [at] u [dot] northwestern [dot] edu | <a href="https://scholar.google.com/citations?user=9n96bcIAAAAJ&amp;hl=en">Google Scholar</a></p>
 
